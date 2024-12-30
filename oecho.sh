@@ -2,4 +2,4 @@
 
 read -p "Enter you name : " Name
 
-echa "my name is $Name"
+echo "my name is $Name"
