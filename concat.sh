@@ -4,4 +4,4 @@ FName=Ajju
 
 SName=Ajji
 
-echo "my full name is : $FName+$SName"
+echo "my full name is : $FName $SName"
