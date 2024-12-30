@@ -4,6 +4,6 @@ a=$0
 b=$1
 
 
- sum=$a+$b
+ sum=$(a+b)
 
  echo "$sum"
