@@ -1,9 +1,9 @@
 #! /bin/bash
-a = 10
+a=10
 
-b = 20 
+b=20 
 
-name = "Ajay"
+name="Ajay"
 
 echo "$a"
 
