@@ -1,5 +1,9 @@
 #! /bin/bash
 
-echo $1
-echo $2
+a=$1
 
+b=$2
+
+sum=$1+$2
+
+echo $sum
