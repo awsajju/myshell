@@ -9,4 +9,6 @@ read
 echo "Enter num b"
 read
 
-echo $sum = $a+$ba
+ sum=$a+$ba
+
+ echo "$sum"
